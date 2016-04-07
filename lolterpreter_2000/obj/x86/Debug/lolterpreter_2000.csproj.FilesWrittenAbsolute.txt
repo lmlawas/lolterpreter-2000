@@ -1,0 +1,6 @@
+/Users/michaelbraga/Desktop/lolterpreter_2000/lolterpreter_2000/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/michaelbraga/Desktop/lolterpreter_2000/lolterpreter_2000/obj/x86/Debug/lolterpreter_2000.gtk-gui.gui.stetic
+/Users/michaelbraga/Desktop/lolterpreter_2000/lolterpreter_2000/bin/Debug/lolterpreter_2000.exe.mdb
+/Users/michaelbraga/Desktop/lolterpreter_2000/lolterpreter_2000/bin/Debug/lolterpreter_2000.exe
+/Users/michaelbraga/Desktop/lolterpreter_2000/lolterpreter_2000/obj/x86/Debug/lolterpreter_2000.exe
+/Users/michaelbraga/Desktop/lolterpreter_2000/lolterpreter_2000/obj/x86/Debug/lolterpreter_2000.exe.mdb

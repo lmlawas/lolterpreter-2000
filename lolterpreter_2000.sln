@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lolterpreter_2000", "lolterpreter_2000\lolterpreter_2000.csproj", "{A6B21C6A-A758-41BE-82F3-3B3141E5FBE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B21C6A-A758-41BE-82F3-3B3141E5FBE2}.Debug|x86.ActiveCfg = Debug|x86
+		{A6B21C6A-A758-41BE-82F3-3B3141E5FBE2}.Debug|x86.Build.0 = Debug|x86
+		{A6B21C6A-A758-41BE-82F3-3B3141E5FBE2}.Release|x86.ActiveCfg = Release|x86
+		{A6B21C6A-A758-41BE-82F3-3B3141E5FBE2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = lolterpreter_2000\lolterpreter_2000.csproj
+	EndGlobalSection
+EndGlobal
